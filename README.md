@@ -3,7 +3,7 @@
 
 I come from the world of technology with a passionate and creative approach as a software engineer. #💻 
 
-- 👨‍💻 All of my projects are available at  <a href="https://linkedin.com/in/www.linkedin.com/in/merve-altınışık" target="blank"><img align="center" src="briefcase.png" alt="www.linkedin.com/in/merve-altınışık" height="30" width="30" /></a>
+- 👨‍💻 All of my projects are available at  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="www.linkedin.com/in/merve-altınışık" height="30" width="30" /></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -19,7 +19,7 @@ I come from the world of technology with a passionate and creative approach as a
 
 ## 🌐 Socials:
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/merve-altınışık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-altınışık" height="30" width="40" />  <a href="https://linkedin.com/in/www.linkedin.com/in/merve-altınışık" target="blank"><img align="center" src="briefcase.png" alt="www.linkedin.com/in/merve-altınışık" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/merve-alt%C4%B1n%C4%B1%C5%9F%C4%B1k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-altınışık" height="30" width="40" />  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="40" width="40" /></a>
 
 
  
