@@ -3,7 +3,7 @@
 
 I come from the world of technology with a passionate and creative approach as a software engineer. #💻 
 
-- 👨‍💻 All of my projects are available at  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="www.linkedin.com/in/merve-altınışık" height="30" width="30" /></a>
+- 👨‍💻 All of my projects are available at  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="30" width="30" /></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
