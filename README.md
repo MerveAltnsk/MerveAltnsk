@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Merve
+### Hi there 👋, My name is Merve Altınışık
 #### I am Software Engineer
 
 I come from the world of technology with a passionate and creative approach as a software engineer. #💻 
@@ -20,9 +20,10 @@ I come from the world of technology with a passionate and creative approach as a
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/merve-alt%C4%B1n%C4%B1%C5%9F%C4%B1k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-altınışık" height="30" width="40" />  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="40" width="40" /></a>
-
-
  
  
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervealtnsk&show_icons=true&locale=en&layout=compact" alt="mervealtnsk" /></p>
+
 
  
