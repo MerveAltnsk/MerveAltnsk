@@ -3,7 +3,8 @@
 
 ---
 ### <p align="center">About Me</p>
- 
+
+- 👀  I’m interested in: **Ai learning**
 - 🌱  I’m currently learning: **React**
 - 📫  Contact with me! **[www.linkedin.com/in/merve-altınışık]**
 - 👨‍💻 All of my projects are available at <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="30" width="30" /></a>
