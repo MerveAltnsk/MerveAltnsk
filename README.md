@@ -6,8 +6,8 @@
 
 - 🌱  I’m currently learning: **React**
 - 📫  Contact with me! **[www.linkedin.com/in/merve-altınışık]**
-- 👨‍💻  My projects are available at <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="30" width="30" /></a>
-
+- 👨‍💻  My projects are available at <a href="https://www.mervealtinisik.com.tr/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="30" width="30" /></a>
+[ https://www.mervealtinisik.com.tr/ ]
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Languages and Tools:</b>
@@ -23,7 +23,7 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/merve-alt%C4%B1n%C4%B1%C5%9F%C4%B1k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-altınışık" height="30" width="40" />  <a href="https://mervealtnsk.github.io/MyPortfolio/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/merve-alt%C4%B1n%C4%B1%C5%9F%C4%B1k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/merve-altınışık" height="30" width="40" />  <a href="https://www.mervealtinisik.com.tr/" target="blank"><img align="center" src="briefcase.png" alt="merve-altınışık" height="35" width="35" /></a>
  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mervealtnsk&show_icons=true&locale=en&layout=compact" alt="mervealtnsk" /></p>
